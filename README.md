@@ -1,6 +1,6 @@
 # Linear-Regression - Student Performance Dataset
 This is a Student Performance Dataset designed to examine the factors influencing academic student performance.
-In this notebook, I have implemented multiple linear regression from stratch.
+In this notebook, I have implemented multiple linear regression from scratch.
 
 Conclusion:
 Performance Index is most strongly correlated with Previous Scores (0.915).
